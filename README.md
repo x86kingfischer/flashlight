@@ -48,6 +48,7 @@ flashlight.exe
 - `--watch` live polling
 - `--alert` mode for suspicious process detection
 - Lighter, no-admin fallback mode
+- A deeper dive into the output: if a cmd.exe spawned, why? what called it? what did it do?
 
 ---
 
