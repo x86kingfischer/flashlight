@@ -34,7 +34,7 @@ flashlight.exe
 ```
 ---
 
-## ❗ Requirements
+## Requirements
 
 - Windows 10 or 11
 - Admin rights to read Security Event Logs
@@ -42,7 +42,7 @@ flashlight.exe
 
 ---
 
-## 🌟 Future Ideas (Planned)
+## Future Ideas (Planned)
 
 - `--json` export mode
 - `--watch` live polling
